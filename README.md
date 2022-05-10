@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hello, I'm Noah! :wave:
+I'm a self taught programmer intrested in the full stack development process of games!
 
-<!--
-**WarEagle451/WarEagle451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently Working On
+### [Mythos](https://github.com/WarEagle451/Mythos)
+- It's a custom game engine I'm making to teach myself the process of the development of game engines
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- C++
+- Lua
+- Python
+- Et aussi un petit peu de Français!
