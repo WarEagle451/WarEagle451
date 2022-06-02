@@ -6,4 +6,4 @@ I'm a self-taught programmer interested in the full-stack development process of
 
 ## Currently Working On
 ![Mythos Repo](https://github-readme-stats.vercel.app/api/pin/?username=WarEagle451&repo=Mythos&theme=dark&border_radius=10&border_color=303030)
-- It's a custom game engine I'm making to teach myself the process of the development of game engines
+- It's a custom game engine I'm making to teach myself the game engine development process
